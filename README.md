@@ -5,15 +5,14 @@ I’m a Frontend Developer with 3 years of experience building responsive, acces
 Currently based in Toronto and open to Frontend Developer / Software Engineer (Frontend) opportunities across Canada and globally. I enjoy solving real-world UI/UX challenges and building interfaces that are scalable, maintainable, and a delight to use.
 
 ### 🛠️ **Tech Stack**
-- Languages & Frameworks: React, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3
+- Languages & Frameworks: React, Next.js, Redux, JavaScript (ES6+), TypeScript, HTML5, CSS3
 - Styling: Tailwind CSS, SASS/SCSS, Bootstrap, Material UI, Styled Components
 - Tools: Git, GitHub, Webpack, Postman, DevTools, Netlify (CI/CD), GitHub Actions
 - Testing: Jest (Basic), TDD principles
 - Other: REST APIs, Agile, Figma, SQL, Node.js (Basic), Power BI
 
-### 📌 **Projects**
-I’m currently working on updating this section with personal and professional projects. Stay tuned!
+### 💡 Fun Facts
 
-### 📫 **Let’s Connect**
-💼 [LinkedIn](https://www.linkedin.com/in/saloni-r/)
-📧 salonirokade119@gmail.com
+- 💻 I genuinely enjoy refining UI details — pixel-perfect is my happy place.  
+- 🌍 A cat parent who loves nature, road trips, and discovering new places.  
+- 📖 I unwind by reading Wattpad stories, great UX starts with great storytelling.
